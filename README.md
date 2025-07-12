@@ -142,19 +142,3 @@ Uploaded screenshots will be saved in the `uploads/` directory.
 - 🚫 Unauthorized monitoring may violate local or international privacy laws (e.g., GDPR, CFAA)
 
 ---
-
-## 📄 License
-
-MIT License © 2025 – [OpenAI](https://openai.com)
-
----
-
-## 📬 Support
-
-Need help with:
-
-- System tray integration?
-- Webcam capture?
-- Auto-start on Windows login?
-
-Open an issue or message the maintainer.
