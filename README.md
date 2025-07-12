@@ -142,3 +142,19 @@ Uploaded screenshots will be saved in the `uploads/` directory.
 - 🚫 Unauthorized monitoring may violate local or international privacy laws (e.g., GDPR, CFAA)
 
 ---
+
+## ☕ Support This Project
+
+If you find this project useful and would like to support its development, consider donating. Your contributions help keep open-source tools like this alive. ❤️
+
+**Bitcoin (BTC) Wallet Address:**
+
+```
+ADDRESS
+```
+
+Or scan the QR code:
+
+![Donate BTC](API)
+
+Thank you for your support! 🙏
