@@ -156,7 +156,7 @@ bc1qlpw590fkykfdd9v92g9snfmx8hc8vwxvkz5npm
 Or scan the QR code:
 
 
-![Donate BTC](https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qbc1qlpw590fkykfdd9v92g9snfmx8hc8vwxvkz5npm
-&size=200x200)
+![Donate BTC]
+(https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qbc1qlpw590fkykfdd9v92g9snfmx8hc8vwxvkz5npm&size=200x200)
 
 Thank you for your support! 🙏
