@@ -150,11 +150,13 @@ If you find this project useful and would like to support its development, consi
 **Bitcoin (BTC) Wallet Address:**
 
 ```
-ADDRESS
+bc1qlpw590fkykfdd9v92g9snfmx8hc8vwxvkz5npm
 ```
 
 Or scan the QR code:
 
-![Donate BTC](API)
+
+![Donate BTC](https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qbc1qlpw590fkykfdd9v92g9snfmx8hc8vwxvkz5npm
+&size=200x200)
 
 Thank you for your support! 🙏
